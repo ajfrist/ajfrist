@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**ajfrist/ajfrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aaron Frist
+*Passionate Developer | AI Enthusiast | Lifelong Learner*
 
-Here are some ideas to get you started:
+Hi there! I'm Aaron, a software developer with a passion for creating innovative solutions. I love expanding my skill set and enjoy looking for new projects to work on.
+Feel free to reach out about anything or to connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, Java, JavaScript, C++, C
+- **Tools:** Git
+
+## Other Hobbies & Interests
+- Soccer & Sports ⚽
+- Music 🎹🎵
+- Building & Engineering 
+- Space 🌌
+
+## GitHub Stats
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajfrist&show_icons=true&theme=radical)
+
+## Contact
+- **Email:** ajfrist@gmail.com
+- **LinkedIn:** [Aaron Frist](https://www.linkedin.com/in/aaron-frist-7bab98345/)
