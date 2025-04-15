@@ -21,4 +21,4 @@ Feel free to reach out about anything or to connect!
 
 ## Contact
 - **Email:** ajfrist@gmail.com
-- **LinkedIn:** [Aaron Frist](https://www.linkedin.com/in/aaron-frist-7bab98345/)
+- **LinkedIn:** [Aaron Frist](https://www.linkedin.com/in/aaronfrist/)
